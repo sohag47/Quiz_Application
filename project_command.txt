@@ -1,0 +1,13 @@
+1.for postgress database:
+> pip install psycopg2
+
+2. for database:
+password: zxcv147bnm
+port:5432
+
+'ENGINE': 'psycopg2',
+        'NAME': 'QuizApp',
+        'USER': 'postgres',
+        'PASSWORD': 'zxcv147bnm',
+        'HOST': '127.0.0.1',
+        'PORT': '5432',
